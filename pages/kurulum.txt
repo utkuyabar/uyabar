@@ -1,0 +1,5 @@
+//SELAM PROXYLERİ ÖRNEK OLDUĞU GİBİ AJAX LOGİN.PHP => REQUEST FONKSİYNUNDAKİ  ARRAY İÇİNE YAZINIZ !!YALNIZCA!! İPV6 user:pass:ip:port şeklinde olmalıdır
+
+İnstagram kleyzronreal
+
+herşey tamam :) kullan admin.php ++ admin şifresi ::n
